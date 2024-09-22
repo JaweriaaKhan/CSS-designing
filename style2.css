@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./IMAGES/abouttreeee.png);
+    background-size: cover; 
+   height: 600px;
+}
+
+
+.h1-1{
+    margin: 300px;
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(0, 37, 24);
+}
+#about-1{
+    background-color: azure;
+    display: flex;
+}
+.h2-1{
+    margin: 200px;
+    
+}
+#about-2{
+    background-color: azure;
+    display: flex;
+}
+.h3-1{
+    margin: 100px;
+    
+}
+#about-3{
+    background-color: azure;
+    display: flex;
+}
+#footer-1{
+    background-color: rgb(10, 11, 11);
+    color: rgb(244, 244, 244);
+    text-align: center;
+    margin-top: 0;
+    padding: 30px
+}
+.h3-2{
+    color: white;
+
+}
+li{
+    color: white;
+}
+.h1-2{
+    color: white;
+}
